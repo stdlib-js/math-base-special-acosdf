@@ -211,6 +211,14 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/special/acosd`][@stdlib/math/base/special/acosd]</span><span class="delimiter">: </span><span class="description">compute the arccosine (in degrees) of a double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/acosf`][@stdlib/math/base/special/acosf]</span><span class="delimiter">: </span><span class="description">compute the arccosine of a single-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/asindf`][@stdlib/math/base/special/asindf]</span><span class="delimiter">: </span><span class="description">compute the arcsine (in degrees) of a single-precision floating-point number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -290,6 +298,12 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [arccosine]: https://en.wikipedia.org/wiki/Inverse_trigonometric_functions
 
 <!-- <related-links> -->
+
+[@stdlib/math/base/special/acosd]: https://github.com/stdlib-js/math-base-special-acosd
+
+[@stdlib/math/base/special/acosf]: https://github.com/stdlib-js/math-base-special-acosf
+
+[@stdlib/math/base/special/asindf]: https://github.com/stdlib-js/math-base-special-asindf
 
 <!-- </related-links> -->
 
